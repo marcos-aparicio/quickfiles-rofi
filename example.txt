@@ -1,0 +1,2 @@
+$HOME/Documents/Doc1.pdf
+$HOME/Videos/gameplay.mp4
