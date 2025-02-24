@@ -22,8 +22,13 @@ This script provides a quick way to open recently used files using a menu interf
 
 Run the script to display a menu of recent files and select one to open.
 
+=== Demo:
+
+video::OOQ1_hBYVBw[youtube]
 
 === TODO:
+
+I have tested this with `.ods` and `.docx` files only. Ultimately, this will depend on your configuration of default applications you have in your system.
 
 - [ ] Handle unexisting files
 - [ ] Handle files that require opening a terminal-based program
