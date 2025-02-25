@@ -24,7 +24,9 @@ Run the script to display a menu of recent files and select one to open.
 
 === Demo:
 
+
 video::OOQ1_hBYVBw[youtube]
+https://youtu.be/OOQ1_hBYVBw[here]
 
 === TODO:
 
