@@ -1,6 +1,6 @@
 # QuickFiles - Rofi Script
 
-<img src = "https://i.postimg.cc/zfG5029x/output.gif" width="600" alt="demo of switching between git worktrees" />
+[![output.gif](https://i.postimg.cc/KY6qRRrt/output.gif)](https://postimg.cc/GBjJf3fp)
 
 ## quick-files.sh
 
