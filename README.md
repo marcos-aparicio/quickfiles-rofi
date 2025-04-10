@@ -1,6 +1,8 @@
 # QuickFiles - Rofi Script
 
-[![output.gif](https://i.postimg.cc/KY6qRRrt/output.gif)](https://postimg.cc/GBjJf3fp)
+
+https://github.com/user-attachments/assets/46dfc55d-3fcc-4e32-b618-543230311cb4
+
 
 ## quick-files.sh
 
